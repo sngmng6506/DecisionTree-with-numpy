@@ -43,7 +43,7 @@ The model classifies Iris species through a two-step inquiry:
 ---
 
 ## 📂 Project Structure
-- `decision_tree_logic.py`: Contains the `Binary_inquiry_train` class and the main execution logic for hierarchical classification.
+- `main.py`: Contains the `Binary_inquiry_train` class and the main execution logic for hierarchical classification.
 
 ---
 
